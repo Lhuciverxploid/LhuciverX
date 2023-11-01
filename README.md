@@ -1,6 +1,5 @@
 # LhuciverX
-Tools created by Lucifer and assisted by someone, tools This is still in development so please understand 
-
+sebaiknya jangan berani untuk mericode sudah saya peringatkan!!!
 |--------------------|
 | Udah di kasih free |
 | malah di recode    |
